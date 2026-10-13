@@ -5,8 +5,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0875-koko-eating-bananas](https://github.com/charanpithani-oss/dsa-java/tree/master/0875-koko-eating-bananas) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/charanpithani-oss/dsa-java/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Binary Search
 |  |
 | ------- |
 | [0875-koko-eating-bananas](https://github.com/charanpithani-oss/dsa-java/tree/master/0875-koko-eating-bananas) |
+## Greedy
+|  |
+| ------- |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/charanpithani-oss/dsa-java/tree/master/3727-maximum-alternating-sum-of-squares) |
+## Sorting
+|  |
+| ------- |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/charanpithani-oss/dsa-java/tree/master/3727-maximum-alternating-sum-of-squares) |
 <!---LeetCode Topics End-->
