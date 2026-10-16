@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0875-koko-eating-bananas](https://github.com/charanpithani-oss/dsa-java/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/charanpithani-oss/dsa-java/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/charanpithani-oss/dsa-java/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/charanpithani-oss/dsa-java/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Binary Search
 |  |
@@ -20,4 +21,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/charanpithani-oss/dsa-java/tree/master/3727-maximum-alternating-sum-of-squares) |
+## Hash Table
+|  |
+| ------- |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/charanpithani-oss/dsa-java/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/charanpithani-oss/dsa-java/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
+## Segment Tree
+|  |
+| ------- |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/charanpithani-oss/dsa-java/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 <!---LeetCode Topics End-->
