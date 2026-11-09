@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0283-move-zeroes](https://github.com/charanpithani-oss/dsa-java/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/charanpithani-oss/dsa-java/tree/master/0485-max-consecutive-ones) |
 | [0875-koko-eating-bananas](https://github.com/charanpithani-oss/dsa-java/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/charanpithani-oss/dsa-java/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -102,4 +103,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1254-number-of-closed-islands](https://github.com/charanpithani-oss/dsa-java/tree/master/1254-number-of-closed-islands) |
+## Two Pointers
+|  |
+| ------- |
+| [0283-move-zeroes](https://github.com/charanpithani-oss/dsa-java/tree/master/0283-move-zeroes) |
 <!---LeetCode Topics End-->
