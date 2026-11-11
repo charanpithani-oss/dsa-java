@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/charanpithani-oss/dsa-java/tree/master/0054-spiral-matrix) |
 | [0268-missing-number](https://github.com/charanpithani-oss/dsa-java/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/charanpithani-oss/dsa-java/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/charanpithani-oss/dsa-java/tree/master/0485-max-consecutive-ones) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/charanpithani-oss/dsa-java/tree/master/0054-spiral-matrix) |
 | [1254-number-of-closed-islands](https://github.com/charanpithani-oss/dsa-java/tree/master/1254-number-of-closed-islands) |
 ## Two Pointers
 |  |
@@ -121,5 +123,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/charanpithani-oss/dsa-java/tree/master/0054-spiral-matrix) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/charanpithani-oss/dsa-java/tree/master/2149-rearrange-array-elements-by-sign) |
 <!---LeetCode Topics End-->
