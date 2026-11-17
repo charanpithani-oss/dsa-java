@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/charanpithani-oss/dsa-java/tree/master/0054-spiral-matrix) |
+| [0118-pascals-triangle](https://github.com/charanpithani-oss/dsa-java/tree/master/0118-pascals-triangle) |
 | [0268-missing-number](https://github.com/charanpithani-oss/dsa-java/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/charanpithani-oss/dsa-java/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/charanpithani-oss/dsa-java/tree/master/0485-max-consecutive-ones) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0118-pascals-triangle](https://github.com/charanpithani-oss/dsa-java/tree/master/0118-pascals-triangle) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/charanpithani-oss/dsa-java/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Tree
 |  |
