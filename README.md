@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/charanpithani-oss/dsa-java/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/charanpithani-oss/dsa-java/tree/master/0054-spiral-matrix) |
 | [0118-pascals-triangle](https://github.com/charanpithani-oss/dsa-java/tree/master/0118-pascals-triangle) |
 | [0268-missing-number](https://github.com/charanpithani-oss/dsa-java/tree/master/0268-missing-number) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/charanpithani-oss/dsa-java/tree/master/0048-rotate-image) |
 | [0268-missing-number](https://github.com/charanpithani-oss/dsa-java/tree/master/0268-missing-number) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/charanpithani-oss/dsa-java/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [3886-sum-of-sortable-integers](https://github.com/charanpithani-oss/dsa-java/tree/master/3886-sum-of-sortable-integers) |
@@ -111,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/charanpithani-oss/dsa-java/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/charanpithani-oss/dsa-java/tree/master/0054-spiral-matrix) |
 | [1254-number-of-closed-islands](https://github.com/charanpithani-oss/dsa-java/tree/master/1254-number-of-closed-islands) |
 ## Two Pointers
