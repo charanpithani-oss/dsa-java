@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/charanpithani-oss/dsa-java/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/charanpithani-oss/dsa-java/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1254-number-of-closed-islands](https://github.com/charanpithani-oss/dsa-java/tree/master/1254-number-of-closed-islands) |
+| [1539-kth-missing-positive-number](https://github.com/charanpithani-oss/dsa-java/tree/master/1539-kth-missing-positive-number) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/charanpithani-oss/dsa-java/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/charanpithani-oss/dsa-java/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/charanpithani-oss/dsa-java/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/charanpithani-oss/dsa-java/tree/master/0268-missing-number) |
 | [0875-koko-eating-bananas](https://github.com/charanpithani-oss/dsa-java/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/charanpithani-oss/dsa-java/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1539-kth-missing-positive-number](https://github.com/charanpithani-oss/dsa-java/tree/master/1539-kth-missing-positive-number) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/charanpithani-oss/dsa-java/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Greedy
 |  |
