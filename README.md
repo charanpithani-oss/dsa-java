@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/charanpithani-oss/dsa-java/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0048-rotate-image](https://github.com/charanpithani-oss/dsa-java/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/charanpithani-oss/dsa-java/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/charanpithani-oss/dsa-java/tree/master/0073-set-matrix-zeroes) |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/charanpithani-oss/dsa-java/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0268-missing-number](https://github.com/charanpithani-oss/dsa-java/tree/master/0268-missing-number) |
 | [0875-koko-eating-bananas](https://github.com/charanpithani-oss/dsa-java/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/charanpithani-oss/dsa-java/tree/master/1011-capacity-to-ship-packages-within-d-days) |
