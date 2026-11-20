@@ -143,4 +143,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/charanpithani-oss/dsa-java/tree/master/0054-spiral-matrix) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/charanpithani-oss/dsa-java/tree/master/2149-rearrange-array-elements-by-sign) |
+## String
+|  |
+| ------- |
+| [0058-length-of-last-word](https://github.com/charanpithani-oss/dsa-java/tree/master/0058-length-of-last-word) |
 <!---LeetCode Topics End-->
