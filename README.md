@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/charanpithani-oss/dsa-java/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/charanpithani-oss/dsa-java/tree/master/0073-set-matrix-zeroes) |
 | [0118-pascals-triangle](https://github.com/charanpithani-oss/dsa-java/tree/master/0118-pascals-triangle) |
+| [0240-search-a-2d-matrix-ii](https://github.com/charanpithani-oss/dsa-java/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/charanpithani-oss/dsa-java/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/charanpithani-oss/dsa-java/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/charanpithani-oss/dsa-java/tree/master/0485-max-consecutive-ones) |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/charanpithani-oss/dsa-java/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/charanpithani-oss/dsa-java/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0240-search-a-2d-matrix-ii](https://github.com/charanpithani-oss/dsa-java/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/charanpithani-oss/dsa-java/tree/master/0268-missing-number) |
 | [0875-koko-eating-bananas](https://github.com/charanpithani-oss/dsa-java/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/charanpithani-oss/dsa-java/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -71,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0240-search-a-2d-matrix-ii](https://github.com/charanpithani-oss/dsa-java/tree/master/0240-search-a-2d-matrix-ii) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/charanpithani-oss/dsa-java/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Dynamic Programming
 |  |
@@ -124,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/charanpithani-oss/dsa-java/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/charanpithani-oss/dsa-java/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/charanpithani-oss/dsa-java/tree/master/0073-set-matrix-zeroes) |
+| [0240-search-a-2d-matrix-ii](https://github.com/charanpithani-oss/dsa-java/tree/master/0240-search-a-2d-matrix-ii) |
 | [1254-number-of-closed-islands](https://github.com/charanpithani-oss/dsa-java/tree/master/1254-number-of-closed-islands) |
 ## Two Pointers
 |  |
